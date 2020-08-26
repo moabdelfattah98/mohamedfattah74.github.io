@@ -1,0 +1,15 @@
+[1] create json boject with the questions
+[2] HTLM Markup 
+[3] Add Dummy Data
+[4] Styling
+[5] Fetch Number Of QUestions from JSON OBJECT
+[6] Show Question Count And Question Category
+[7] Show The Number Of Bullets
+[8] Set the Number for Right And Wrong Answers
+[9] Create Qount Down Timer
+[10] fetch the questions from the JASON 
+[11] Show the first Question
+[12] Check Answer And Preceed to the Next Question
+[13] if time ends MArk the Question As Wrong And preceed to next question
+[14] add class on Bullets anfer Answering the questions
+[15] after finishing the questions show the result
